@@ -1,50 +1,47 @@
 # Olá, eu sou o Kauã 👋
 
-🎓 Estudante de Engenharia de Software na UFC | Formatura prevista para 2028
-💻 Desenvolvedor backend com foco em Python e FastAPI
-📚 Também atuo como professor de Gerenciamento de Projetos
+🎓 Estudante de Engenharia de Software na UFC (Campus Russas)
+💻 Desenvolvedor backend com foco em Python, FastAPI e criptografia aplicada
+📚 Professor de Gerenciamento de Projetos
 🌎 Construindo um portfólio fullstack (desktop + web) mirando oportunidades internacionais como dev júnior
 
 ---
 
 ## 🛠️ Stack principal
 
-`Python` `FastAPI` `Vue.js` `JavaScript` `SQL`
+`Python` `FastAPI` `Vue.js` `JavaScript` `SQLAlchemy` `Docker`
 
 ---
 
 ## 🚀 Projetos em destaque
 
-### [TaskFlow-API](https://github.com/kakeven/TaskFlow-API)
-> _[uma linha: o que a API faz, ex: "API REST de gerenciamento de tarefas com autenticação JWT e FastAPI"]_
-**Stack:** Python · FastAPI
+### 🔐 [PassWorld](https://github.com/kakeven/Passworld)
+Gerenciador de senhas com criptografia AES-256-GCM e derivação de chave via Argon2id. Credenciais protegidas em arquivo `.vault` criptografado (sem senha em texto puro, sem banco tradicional). Tem versão web e versão desktop empacotada com Electron.
+**Stack:** FastAPI (backend) · Vue 3 + Vite (frontend) · Electron (desktop)
 
-### [taskflow-desktop](https://github.com/kakeven/taskflow-desktop)
-> _[uma linha: cliente desktop do TaskFlow — o que ele faz, quem usa]_
-**Stack:** JavaScript
+### ✅ [TaskFlow API](https://github.com/kakeven/TaskFlow-API) + [TaskFlow Desktop](https://github.com/kakeven/taskflow-desktop)
+API REST de gerenciamento de tarefas com autenticação JWT, PostgreSQL e deploy em produção — mais um cliente desktop (Tauri) com dashboard, prioridades e importação de tarefas via JSON.
+🔗 **API em produção:** https://taskflow-nnno.onrender.com/docs
+**Stack:** FastAPI · PostgreSQL · SQLAlchemy · Docker (API) · JS/HTML/CSS + Tauri (desktop)
 
-### [PC_Scrap](https://github.com/kakeven/PC_Scrap)
-> _[uma linha: o que ele coleta/monitora, ex: "scraper de preços de hardware em lojas brasileiras"]_
-**Stack:** Python
+### 📅 [Agenda Digital](https://github.com/kakeven/Agenda-digital)
+Aplicação desktop para gerenciamento de agendamentos de clientes — cadastro, busca, calendário interativo e cálculo automático de faturamento, com persistência local em SQLite.
+**Stack:** Python · Tkinter · SQLite3
 
-### [Passworld](https://github.com/kakeven/Passworld)
-> _[uma linha: gerenciador de senhas? gerador? o que faz]_
-**Stack:** Vue.js
+### 💰 [Cypher](https://github.com/kakeven/Cypher)
+Gerenciador de finanças pessoais. _(projeto inicial)_
+**Stack:** Vue.js · Python · Electron
 
-### [Cypher](https://github.com/kakeven/Cypher)
-> _[uma linha: o que esse projeto faz]_
-**Stack:** Vue.js
-
-### [Agenda-digital](https://github.com/kakeven/Agenda-digital)
-> _[uma linha: agenda/calendário — pra quem, com que funcionalidade]_
-**Stack:** Python
+### 🖥️ [PC_Scrap](https://github.com/kakeven/PC_Scrap)
+Scraper que busca placas de vídeo na KaBuM e organiza por modelo, junto com as especificações técnicas de cada uma. _(projeto inicial)_
+**Stack:** Python 
 
 ---
 
 ## 📫 Contato
 
-- LinkedIn: [seu link]
-- E-mail: [seu e-mail]
+- LinkedIn: https://www.linkedin.com/in/kakeven
+- E-mail: kevsnsilba@gmail.com
 
 ---
 
