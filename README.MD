@@ -1,6 +1,6 @@
 # Olá, eu sou o Kauã 👋
 
-🎓 Estudante de Engenharia de Software na UFC (Campus Russas) | Formatura prevista para 2028
+🎓 Estudante de Engenharia de Software na UFC | Formatura prevista para 2028
 💻 Desenvolvedor backend com foco em Python e FastAPI
 📚 Também atuo como professor de Gerenciamento de Projetos
 🌎 Construindo um portfólio fullstack (desktop + web) mirando oportunidades internacionais como dev júnior
