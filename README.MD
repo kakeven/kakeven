@@ -35,6 +35,9 @@ Gerenciador de finanças pessoais. _(projeto inicial)_
 Scraper que busca placas de vídeo na KaBuM e organiza por modelo, junto com as especificações técnicas de cada uma. _(projeto inicial)_
 **Stack:** Python 
 
+
+[![Secured by GitGuard](https://img.shields.io/badge/Secured%20by-GitGuard-success?style=flat-square)](https://www.gitguard.com.br/kakeven)
+
 ---
 
 ## 📫 Contato
