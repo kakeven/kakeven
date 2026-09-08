@@ -36,7 +36,7 @@ Scraper que busca placas de vídeo na KaBuM e organiza por modelo, junto com as 
 **Stack:** Python 
 
 
-[![Secured by GitGuard](https://img.shields.io/badge/Secured%20by-GitGuard-success?style=flat-square)](https://www.gitguard.com.br/kakeven)
+
 
 ---
 
@@ -48,3 +48,5 @@ Scraper que busca placas de vídeo na KaBuM e organiza por modelo, junto com as 
 ---
 
 ⭐ Sinta-se à vontade para explorar meus repositórios!
+
+[![Secured by GitGuard](https://img.shields.io/badge/Secured%20by-GitGuard-success?style=flat-square)](https://www.gitguard.com.br/kakeven)
