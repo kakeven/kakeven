@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="52" viewBox="0 0 960 52" role="img" aria-labelledby="title desc">
+  <title id="title">Tecnologias</title>
+  <desc id="desc">Python, FastAPI, Vue 3, Android, Tauri e Docker.</desc>
+  <g transform="translate(2 3)"><rect width="145" height="46" rx="12" fill="#1b3150" stroke="#3d6486"/><rect x="13" y="15" width="16" height="16" rx="5" fill="#ffd85f"/><text x="42" y="31" fill="#f4f8ff" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="600">Python</text></g>
+  <g transform="translate(161 3)"><rect width="145" height="46" rx="12" fill="#1b3150" stroke="#3d6486"/><rect x="13" y="15" width="16" height="16" rx="5" fill="#54d6cb"/><text x="42" y="31" fill="#f4f8ff" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="600">FastAPI</text></g>
+  <g transform="translate(320 3)"><rect width="145" height="46" rx="12" fill="#1b3150" stroke="#3d6486"/><rect x="13" y="15" width="16" height="16" rx="5" fill="#69d6a0"/><text x="42" y="31" fill="#f4f8ff" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="600">Vue 3</text></g>
+  <g transform="translate(479 3)"><rect width="145" height="46" rx="12" fill="#1b3150" stroke="#3d6486"/><rect x="13" y="15" width="16" height="16" rx="5" fill="#9dd66c"/><text x="42" y="31" fill="#f4f8ff" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="600">Android</text></g>
+  <g transform="translate(638 3)"><rect width="145" height="46" rx="12" fill="#1b3150" stroke="#3d6486"/><rect x="13" y="15" width="16" height="16" rx="5" fill="#efb16c"/><text x="42" y="31" fill="#f4f8ff" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="600">Tauri</text></g>
+  <g transform="translate(797 3)"><rect width="145" height="46" rx="12" fill="#1b3150" stroke="#3d6486"/><rect x="13" y="15" width="16" height="16" rx="5" fill="#73b8f2"/><text x="42" y="31" fill="#f4f8ff" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="600">Docker</text></g>
+</svg>
