@@ -1,52 +1,57 @@
-# Olá, eu sou o Kauã 👋
+<p align="center">
+  <img src="./assets/banner.svg" alt="Kauã: desenvolvedor de software, conectando API, Web, Desktop e Android" width="100%" />
+</p>
 
-🎓 Estudante de Engenharia de Software na UFC. 
-💻 Desenvolvedor backend com foco em Python, FastAPI e criptografia aplicada.
-🌎 Construindo um portfólio fullstack (desktop + web) mirando oportunidades internacionais como dev júnior.
+<p align="center">
+  <a href="https://github.com/kakeven?tab=repositories">Repositórios</a> ·
+  <a href="https://www.linkedin.com/in/kakeven">LinkedIn</a>
+</p>
 
----
+## Olá, eu sou o Kauã
 
-## 🛠️ Stack principal
+Estudo Engenharia de Software e desenvolvo aplicações de ponta a ponta, com atenção especial a APIs, persistência de dados e segurança aplicada. Gosto de transformar regras complexas em produtos simples de usar.
 
-`Python` `FastAPI` `Vue.js` `JavaScript` `SQLAlchemy` `Docker`
+Meu trabalho passa por **Python e FastAPI** no backend, **Vue** na web e experiências para **desktop e Android**.
 
----
+## Projetos em destaque
 
-## 🚀 Projetos em destaque
+### [Cypher Android](https://github.com/kakeven/cypher-android)
 
-### 🔐 [PassWorld](https://github.com/kakeven/Passworld)
-Gerenciador de senhas com criptografia AES-256-GCM e derivação de chave via Argon2id. Credenciais protegidas em arquivo `.vault` criptografado (sem senha em texto puro, sem banco tradicional). Tem versão web e versão desktop empacotada com Electron.
-**Stack:** FastAPI (backend) · Vue 3 + Vite (frontend) · Electron (desktop)
+Aplicativo open source de finanças pessoais para navegador e Android. Organiza transações, orçamentos, metas, recebimentos, recorrências e faturas de cartão, com armazenamento local no dispositivo.
 
-### ✅ [TaskFlow API](https://github.com/kakeven/TaskFlow-API) + [TaskFlow Desktop](https://github.com/kakeven/taskflow-desktop)
-API REST de gerenciamento de tarefas com autenticação JWT, PostgreSQL e deploy em produção — mais um cliente desktop (Tauri) com dashboard, prioridades e importação de tarefas via JSON.
-🔗 **API em produção:** https://taskflow-nnno.onrender.com/docs
-**Stack:** FastAPI · PostgreSQL · SQLAlchemy · Docker (API) · JS/HTML/CSS + Tauri (desktop)
+`Vue 3` `Ionic` `Capacitor` `SQLite`
 
-### 📅 [Agenda Digital](https://github.com/kakeven/Agenda-digital)
-Aplicação desktop para gerenciamento de agendamentos de clientes — cadastro, busca, calendário interativo e cálculo automático de faturamento, com persistência local em SQLite.
-**Stack:** Python · Tkinter · SQLite3
+### [PassWorld](https://github.com/kakeven/Passworld)
 
-### 💰 [Cypher](https://github.com/kakeven/Cypher)
-Gerenciador de finanças pessoais. _(projeto inicial)_
-**Stack:** Vue.js · Python · Electron
+Cofre de senhas com API em FastAPI e interface em Vue. O projeto usa Argon2id para derivar a chave e AES-256-GCM para cifrar o arquivo de dados `.vault`.
 
-### 🖥️ [PC_Scrap](https://github.com/kakeven/PC_Scrap)
-Scraper que busca placas de vídeo na KaBuM e organiza por modelo, junto com as especificações técnicas de cada uma. _(projeto inicial)_
-**Stack:** Python 
+`Python` `FastAPI` `Vue 3` `Criptografia aplicada`
 
+### [TaskFlow API](https://github.com/kakeven/TaskFlow-API) + [TaskFlow Desktop](https://github.com/kakeven/taskflow-desktop)
 
+Dois projetos de gerenciamento de tarefas: uma API com autenticação JWT e regras de prioridade e carga de trabalho, e um cliente desktop feito com Tauri.
 
+`FastAPI` `PostgreSQL` `SQLAlchemy` `Tauri`
 
----
+### [Agenda Digital](https://github.com/kakeven/Agenda-digital)
 
-## 📫 Contato
+Aplicativo desktop para agendamentos de clientes, busca, calendário e acompanhamento de faturamento com dados em SQLite.
 
-- LinkedIn: https://www.linkedin.com/in/kakeven
-- E-mail: kevsnsilba@gmail.com
+`Python` `Tkinter` `SQLite`
 
----
+## O que me interessa construir
 
-⭐ Sinta-se à vontade para explorar meus repositórios!
+- APIs com regras de negócio claras e testáveis.
+- Aplicações que tratam dados locais com cuidado.
+- Interfaces que tornam fluxos complexos mais fáceis de entender.
 
-[![Secured by GitGuard](https://img.shields.io/badge/Secured%20by-GitGuard-success?style=flat-square)](https://www.gitguard.com.br/kakeven)
+## Tecnologias
+
+**Backend:** Python, FastAPI, SQLAlchemy, PostgreSQL  
+**Frontend:** Vue 3, JavaScript, HTML e CSS  
+**Apps e ferramentas:** Capacitor, Tauri, Docker, SQLite
+
+## Contato
+
+Você pode falar comigo pelo [LinkedIn](https://www.linkedin.com/in/kakeven) ou explorar os [repositórios públicos](https://github.com/kakeven?tab=repositories).
+
