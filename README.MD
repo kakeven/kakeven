@@ -3,6 +3,14 @@
 </p>
 
 <p align="center">
+  <img src="./assets/profile-strip.gif" alt="Kauã: software para pessoas e problemas reais; APIs, Web, Desktop e Android; construindo em código aberto" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./assets/stack.svg" alt="Tecnologias: Python, FastAPI, Vue 3, Android, Tauri e Docker" width="100%" />
+</p>
+
+<p align="center">
   <a href="https://github.com/kakeven?tab=repositories">Repositórios</a> ·
   <a href="https://www.linkedin.com/in/kakeven">LinkedIn</a>
 </p>
