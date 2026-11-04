@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Kauã — desenvolvedor de software</title>
+  <desc id="desc">Banner azul escuro com o nome Kauã e um diagrama que conecta API, Web, Desktop e Android.</desc>
+  <rect width="1200" height="300" fill="#101b2d"/>
+  <path d="M0 265H1200M0 40H1200" stroke="#26364d" stroke-width="1"/>
+  <path d="M54 42V258" stroke="#54d6cb" stroke-width="5" stroke-linecap="round"/>
+  <text x="86" y="137" fill="#f4f8ff" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="96" letter-spacing="-5">Kauã</text>
+  <text x="90" y="190" fill="#b8c9dc" font-family="Segoe UI, Arial, sans-serif" font-size="25">Software para pessoas e problemas reais.</text>
+  <text x="90" y="240" fill="#54d6cb" font-family="Consolas, monospace" font-size="17">Python   /   FastAPI   /   Vue   /   Android</text>
+  <path d="M820 150H885M985 150H1050M935 98V65M935 202V235" stroke="#5c7897" stroke-width="2"/>
+  <circle cx="935" cy="150" r="56" fill="#1b3150" stroke="#54d6cb" stroke-width="2"/>
+  <circle cx="935" cy="150" r="37" fill="#101b2d" stroke="#3d6486" stroke-width="1"/>
+  <text x="935" y="158" text-anchor="middle" fill="#f4f8ff" font-family="Consolas, monospace" font-size="23" font-weight="700">{ }</text>
+  <rect x="722" y="126" width="98" height="48" rx="8" fill="#1b3150" stroke="#3d6486"/>
+  <text x="771" y="156" text-anchor="middle" fill="#d9e7f6" font-family="Consolas, monospace" font-size="17">API</text>
+  <rect x="1050" y="126" width="98" height="48" rx="8" fill="#1b3150" stroke="#3d6486"/>
+  <text x="1099" y="156" text-anchor="middle" fill="#d9e7f6" font-family="Consolas, monospace" font-size="17">WEB</text>
+  <rect x="870" y="18" width="130" height="47" rx="8" fill="#1b3150" stroke="#3d6486"/>
+  <text x="935" y="48" text-anchor="middle" fill="#d9e7f6" font-family="Consolas, monospace" font-size="16">DESKTOP</text>
+  <rect x="870" y="235" width="130" height="47" rx="8" fill="#1b3150" stroke="#3d6486"/>
+  <text x="935" y="265" text-anchor="middle" fill="#d9e7f6" font-family="Consolas, monospace" font-size="16">ANDROID</text>
+</svg>
+
